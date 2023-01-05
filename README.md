@@ -29,4 +29,6 @@ Technically I like to develop complex applications and screens, where the fronte
 
 
 ## Contact
-<a src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/claytonmarriel/" />
+<a src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/claytonmarriel/">
+ Clayton Marriel
+</a>

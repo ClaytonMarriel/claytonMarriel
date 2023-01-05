@@ -6,30 +6,27 @@ Technically I like to develop complex applications and screens, where the fronte
 
 # Experiências
 
-Frontend + libraries + frameworks
-▪ Javascript
-▪ HTML 
-▪ CSS
-▪ ReactJS
-▪ VueJS
-▪ React Native
-▪ Electron JS
-▪ JQuery
-▪ Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+## Frontend + libraries + frameworks
+* Javascript
+*  HTML
+*  CSS
+*  ReactJS
+*  Typescript
+*  React Native
+*  Electron JS
+*  JQuery
+*  Bootstrap
 
 
-▪ Typescript
+## Backend, tools and libraries
+* NodeJS
+* MySQL
+* MongoDB
+* PostgreSQL
+* Firebase
+* Insomnia
 
-Backend, tools and libraries
-▪ NodeJS
-▪ MySQL
-▪ MongoDB
-▪ PostgreSQL
-▪ Firebase
-▪ Postman
-▪ Insomnia
+## Opensources
 
-Opensources
-
-▪ Opencart (Ecommerce) 
-▪ Moodle (Plataforma EAD)
+* Opencart (Ecommerce)
+* Moodle (Plataforma EAD)

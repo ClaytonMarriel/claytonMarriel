@@ -15,7 +15,8 @@ Frontend + libraries + frameworks
 ▪ React Native
 ▪ Electron JS
 ▪ JQuery
-▪ Bootstrap
+▪ Bootstrap <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ▪ Typescript
 
 Backend, tools and libraries

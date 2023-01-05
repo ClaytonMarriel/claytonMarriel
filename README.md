@@ -6,17 +6,19 @@ Technically I like to develop complex applications and screens, where the fronte
 
 # Experiências
 
-## Frontend + libraries + frameworks
+## Frontend
 * Javascript
 *  HTML
 *  CSS
 *  ReactJS
 *  Typescript
 *  React Native
-*  Electron JS
-*  JQuery
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> Bootstrap
 
+
+## libraries + frameworks
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="40" height="40" />
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  width="40" height="40"/>
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> Bootstrap
 
 ## Backend, tools and libraries
 * NodeJS

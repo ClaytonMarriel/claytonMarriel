@@ -15,7 +15,7 @@ Technically I like to develop complex applications and screens, where the fronte
 *  React Native
 *  Electron JS
 *  JQuery
-*  Bootstrap
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> Bootstrap
 
 
 ## Backend, tools and libraries

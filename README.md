@@ -1,34 +1,33 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Clayton!
+✆ +55 2299103-5728 | ✉ claytonmarrieljs@gmail.com or claytonlsantana@hotmail.com
 
-Hi, my name is Clayton and I love working with front-end
-development, especially with React.js and other technologies.
-I like to develop complex applications and webpages where the
-front-end potential can be fully explored in order to bring the best
-experience for the users.
+- Frontend developer, working for 3 years.
+- I love challenges that stimulate me and allow me to contribute ideas, with the freedom to create the best possible value to continuously improve the company's product. It's rewarding to be able to apply my creativity and experience to drive excellence and innovation, constantly raising product standards.
 
-# Hard skills
+🎓 Bachelor of Information Systems
 
-## Frontend + libraries + frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+## Main skills:
+- ReactJS
+- NextJS
+- AngularJS
+- VueJS
+- React Native
+- Javascript/Typescript
+- Jest
+- HTML5
+- CSS/SASS/LESS
+- Bootstrap
+- GIT
 
-## Backend, tools and libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width="40" height="40" />
+## Other skills:
+- SQL - MySQL and PostgreSQL
+- Node.js
+- Express
+- API
+- PHP
+- Figma 
+- Scrum and Kanban
+- Design System 
 
-
-## Contact
-<a src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/claytonmarriel/" target="_blank">
- My profile
-</a>
+## Operating systems
+- Linux 
+- Windows

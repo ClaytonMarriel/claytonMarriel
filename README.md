@@ -27,6 +27,8 @@
 - Figma 
 - Scrum and Kanban
 - Design System 
+- Azure DevOps
+- Cloud Computing
 
 ## Operating systems
 - Linux 

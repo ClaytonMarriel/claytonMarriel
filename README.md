@@ -8,8 +8,7 @@
 ## Main skills:
 - ReactJS
 - NextJS
-- AngularJS
-- VueJS
+- Angular
 - React Native
 - Javascript/Typescript
 - Jest

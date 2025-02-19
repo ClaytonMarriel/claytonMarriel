@@ -6,12 +6,12 @@
 🎓 Bachelor of Information Systems
 
 ## Main skills:
-- ReactJS, NextJS, Javascript, Typescript, HTML, CSS, Scss, Tailwind CSS, Bootstrap
+- ReactJS, NextJS, Javascript, Typescript, HTML, CSS, Scss, Tailwind
 - React Native, Firebase, Expo
 - Angular
 - Jest, Jasmine, Karma
-- Versionamento de código usando Git.
-- Experiência com tecnologias ágeis como Scrum e Kanbam
+- Code versioning using Git.
+- Experience with agile technologies such as Scrum and Kanbam
 - Figma
 
 ## Other skills:

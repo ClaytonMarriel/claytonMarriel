@@ -1,4 +1,4 @@
-✆ +55 2299103-5728 | ✉ claytonmarrieljs@gmail.com or claytonlsantana@hotmail.com
+ ✉ claytonlsantana@hotmail.com
 
 -  Front-End Developer with over 4 years of experience, specializing in creating modern, responsive, and high-performance interfaces in React.js, Angular, and Next.js.
 I have worked on projects for large companies such as Ecopetrol and Comgás, developing solutions that have impacted thousands of users and helped modernize critical systems.

@@ -14,7 +14,7 @@ Development of mobile apps in React Native/Expo, integrated with Firebase
 ## Main skills:
 - ReactJS, NextJS, Javascript, Typescript, HTML, CSS, Scss, Tailwind
 - React Native, Firebase, Expo
-- Angular
+- Angular, Angular Material, Unit Tests
 - Jest, Jasmine, Karma
 - Code versioning using Git.
 - Experience with agile technologies such as Scrum and Kanbam
@@ -22,6 +22,7 @@ Development of mobile apps in React Native/Expo, integrated with Firebase
 
 ## Other skills:
 - Node.js, Express, NestJS
+- C#
 - MySQL, MongoDB
 - Design System 
 - Azure DevOps

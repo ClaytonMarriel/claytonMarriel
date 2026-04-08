@@ -1,30 +1,33 @@
- ✉ claytonlsantana@hotmail.com
+I’m a Senior Front-End Engineer focused on building scalable, maintainable, and high-quality web applications using Angular, React, Next.js, and TypeScript.
 
--  Front-End Developer with over 4 years of experience, specializing in creating modern, responsive, and high-performance interfaces in React.js, Angular, and Next.js.
-I have worked on projects for large companies such as Ecopetrol and Comgás, developing solutions that have impacted thousands of users and helped modernize critical systems.
+I have strong experience in enterprise environments, working on legacy modernization, full application rebuilds, micro-frontend architectures, and design systems. I enjoy transforming complex business requirements into clean, efficient, and user-centered solutions with a strong focus on performance and long-term maintainability.
 
-- Differentials:
-+10 projects delivered in corporate environments
-Experience in modernizing legacy applications, reducing loading time and increasing performance by up to 35%
-Participation in agile squads, applying Scrum/Kanban and good versioning practices (Git)
-Development of mobile apps in React Native/Expo, integrated with Firebase
+Throughout my career, I’ve contributed to projects involving:
 
-🎓 Bachelor of Information Systems
+• Modernization of legacy systems (Angular upgrades and refactoring)
 
-## Main skills:
-- ReactJS, NextJS, Javascript, Typescript, HTML, CSS, Scss, Tailwind
-- React Native, Firebase, Expo
-- Angular, Angular Material, Unit Tests
-- Jest, Jasmine, Karma
-- Code versioning using Git.
-- Experience with agile technologies such as Scrum and Kanbam
-- Figma
+• Development of scalable front-end architectures (microfrontends)
 
-## Other skills:
-- Node.js, Express, NestJS
-- C#
-- MySQL, MongoDB
-- Design System 
-- Azure DevOps
-- Cloud Computing
+• High test coverage strategies (unit tests and reliability improvements)
 
+• UI/UX improvements aligned with design systems and accessibility standards
+
+I work closely with product, design, and backend teams in agile environments (Scrum/Kanban), and I’m comfortable contributing beyond the UI layer — including API integration, authentication flows, and data handling.
+
+My main strengths are:
+
+• Front-end architecture and scalability
+
+• Clean, maintainable code
+
+• Performance optimization
+
+• Strong collaboration across teams
+
+I’m motivated by challenges that combine engineering and product impact — always aiming to deliver solutions that scale and provide a great user experience.
+
+
+
+
+
+🌐 Portfolio: https://claytonmarriel.netlify.app/
